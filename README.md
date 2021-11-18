@@ -20,15 +20,15 @@ The project is a system that represent a store with products. With the system th
 
 The app displays an initially empty list of products (below).
 
-<img src="./screenshots/Screenshot_1619690482.png" alt="drawing" width="200"/>
+<img src="./Screenshots/Screenshot_1619690482.png" alt="drawing" width="200"/>
 
 Using a FAB button (for example [this one](https://callstack.github.io/react-native-paper/fab.html)) the user can navigate to add product screen to create a new product and add it to the list so the list will look like this.
 
-<img src="./screenshots/Screenshot_1619690519.png" alt="drawing" width="200"/>
+<img src="./Screenshots/Screenshot_1619690519.png" alt="drawing" width="200"/>
 
 ### New Product Screen
 
-<img src="./screenshots/Screenshot_1619690489.png" alt="drawing" width="200"/>
+<img src="./Screenshots/Screenshot_1619690489.png" alt="drawing" width="200"/>
 
 This screen has three fields and two buttons with fields being empty and the save button being disabled as an initial **STATE**.
 
@@ -40,8 +40,8 @@ This screen has three fields and two buttons with fields being empty and the sav
   Pressing the save button will add the product to the list of products and navigates back to the Items Screens.
 - Cancel Button: It has a [Prohibited Icon](https://icons.expo.fyi/Foundation/prohibited) and it navigates back to Items Screen with no changes.
 
-<img src="./screenshots/Screenshot_1619690504.png" alt="drawing" width="200"/>
-<img src="./screenshots/Screenshot_1619690511.png" alt="drawing" width="200"/>
+<img src="./Screenshots/Screenshot_1619690504.png" alt="drawing" width="200"/>
+<img src="./Screenshots/Screenshot_1619690511.png" alt="drawing" width="200"/>
 
 ### Product Screen
 
@@ -57,11 +57,11 @@ From the design and functionalities should be the same as `New Product Screen` w
 
 The user can delete an existing product using either an additional button on Edit screen or be more creative as seen in the `Bonus Requirements` section
 
-<img src="./screenshots/Screenshot_1619690567.png" alt="drawing" width="200"/>
+<img src="./Screenshots/Screenshot_1619690567.png" alt="drawing" width="200"/>
 
 ### Validation
 
-<img src="./screenshots/Screenshot_1619690554.png" alt="drawing" width="200"/>
+<img src="./Screenshots/Screenshot_1619690554.png" alt="drawing" width="200"/>
 
 To be able to save a new product or changes in an existing product there are some validation rules needs to be satisfied.
 
